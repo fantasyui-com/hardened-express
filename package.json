@@ -4,8 +4,6 @@
   "description": "Fast, opinionated, hardened web framework",
   "main": "index.js",
   "scripts": {
-    "check": "./node_modules/nsp/bin/nsp check --output summary",
-    "postinstall": "npm run check;",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -21,6 +19,5 @@
   "homepage": "https://github.com/fantasyui-com/hardened-express#readme",
   "dependencies": {
     "helmet": "^3.5.0",
-    "nsp": "^2.6.3"
   }
 }
