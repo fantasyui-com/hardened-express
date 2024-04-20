@@ -1,6 +1,6 @@
 {
   "name": "hardened-express",
-  "version": "1.16.0",
+  "version": "1.17.0",
   "description": "Fast, opinionated, hardened web framework",
   "main": "index.js",
   "scripts": {
