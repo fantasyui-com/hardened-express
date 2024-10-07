@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/fantasyui-com/hardened-express#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^2.5.11",
     "helmet": "^3.21.2"
   }
 }
